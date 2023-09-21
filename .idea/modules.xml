@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Async_Programming.iml" filepath="$PROJECT_DIR$/.idea/Async_Programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BestElementsOfCollection/BestElementsOfCollection.iml" filepath="$PROJECT_DIR$/BestElementsOfCollection/BestElementsOfCollection.iml" />
       <module fileurl="file://$PROJECT_DIR$/TravelAgency/TravelAgency.iml" filepath="$PROJECT_DIR$/TravelAgency/TravelAgency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WeatherForecast/WeatherForecast.iml" filepath="$PROJECT_DIR$/WeatherForecast/WeatherForecast.iml" />
     </modules>
   </component>
 </project>
